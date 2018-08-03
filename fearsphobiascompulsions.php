@@ -31,23 +31,44 @@
 
 
 
-  <?php include("include/all_main_head.inc") ?>
+ <?php include("include/index_main.inc") ?>
 
-<br><br><br><br><br><br>
+<br>
 
 <div class="container">
 
-<h1>Fears content</h1>
+<h1>Fears and Phobias</h1>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Approximately 10% of the population have a fear or phobia they are living with.  A phobia is an irrational and excessive fear of an object or situation. In most cases, the phobia involves a sense of endangerment or a fear of harm.</p>
 
-<p>In tibique oportere eos. Ius phaedrum tractatos ne, dolore nonumy adipisci mea id. Ad porro cetero timeam vix, ex his laudem virtute, lorem voluptua salutatus ne vis. Ei oratio evertitur percipitur his, at aliquip meliore assueverit est. Ea possim lobortis constituto quo. Eam habeo vocent invidunt ei, te cum utinam splendide.</p>
+<p>The good news is these are treatable conditions and respond well with hypnotherapy.  The top 10 most common phobias include:</p>
 
-<p>Probo omnium interpretaris ut duo, sit an agam numquam constituto. Ne mucius timeam laoreet pri, euismod impedit ius te. No per ponderum dissentiet, et saepe necessitatibus per. Graeci causae id vix, ex legimus minimum deleniti est, ad persecuti suscipiantur pro. An populo eripuit quo.</p>
+<ul>
+<li>Flying</li>
+<li>Spiders, snakes</li>
+<li>Heights</li>
+<li>Crowded or confined spaces</li>
+<li>Open spaces</li>
+<li>Thunder and lighting</li>
+<li>Injections</li>
+<li>Social situations </li>
+<li>Germs or dirt</li>
+<li>dogs</li>
+</ul>
 
-<p>Ius cu nobis maluisset comprehensam, usu idque fugit ne, an est summo forensibus adversarium. Velit alterum gubergren per ut, propriae interesset ei eam. Solum ipsum ei usu. Qui an perfecto torquatos, ad sed quod epicuri. Esse facilisis mea eu.</p>
+<p>Common symptoms associated with a phobia include:</p>
 
-<p>Ut mediocrem scriptorem neglegentur mei, ei vis justo mundi corpora. Vim ut meis suscipiantur, ex persius discere perpetua est. Ad labitur referrentur mel, ea erroribus abhorreant cum. Pri mentitum reprehendunt et, ei nam iisque albucius efficiendi.</p>
+<ul>
+<li>Dizziness</li>
+<li>Breathlessness</li>
+<li>Nausea</li>
+<li>A sense of unreality</li>
+<li>Fear of dying</li>
+</ul>
+
+<p>In some cases, these symptoms can escalate into a full-scale anxiety attack. As a consequence of these symptoms, some individuals begin to isolate themselves, leading to severe difficulties in daily life. </p>
+
+<p>Hypnotherapy works with you to reduce the anxiety around your specific fear or phobia, look for the root cause of the problem and then, through hypnosis, treat the condition.</p>
 
 </div>
 
