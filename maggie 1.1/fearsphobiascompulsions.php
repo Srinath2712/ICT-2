@@ -39,7 +39,8 @@
 
 <h1>Fears and Phobias</h1>
 
-<p>Approximately 10% of the population have a fear or phobia they are living with.  A phobia is an irrational and excessive fear of an object or situation. In most cases, the phobia involves a sense of endangerment or a fear of harm.</p>
+<p>Approximately 10% of the population have a fear or phobia they are living with. 
+    &nbsp; A phobia is an irrational and excessive fear of an object or situation. In most cases, the phobia involves a sense of endangerment or a fear of harm.</p>
 
 <p>The good news is these are treatable conditions and respond well with hypnotherapy.  The top 10 most common phobias include:</p>
 
